@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ReservationApp</string>
+    <string name="no_bookings">No Booking(s)</string>
+    <string name="my_bookings">My Bookings</string>
+    <string name="hint1">Choose your table and fill required information.</string>
+    <string name="select_table">Click to select table</string>
+    <string name="reserve_button_text">Reserve Table</string>
+    <string name="update">Update Profile</string>
+    <string name="sign_out">Sign out</string>
+    <string name="edit_small">edit</string>
+    <string name="profile">Profile</string>
+</resources>
